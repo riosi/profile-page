@@ -3,6 +3,26 @@ body {
     
 }
 
+a {
+    padding: 10px 40px; 
+    text-decoration: none;  
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: rgb(158, 106, 142);
+}
+
+a:hover {
+    background-color: white;
+}
+
+a:active {
+    color: black;
+}
 
 #container {
     width: 620px;
